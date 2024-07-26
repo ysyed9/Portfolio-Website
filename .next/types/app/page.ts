@@ -1,4 +1,4 @@
-// File: /Users/younussyed/Desktop/codeProjects/portofio-plz/src/app/page.js
+// File: /Users/younussyed/Desktop/codeProjects/portofio-website/src/app/page.js
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

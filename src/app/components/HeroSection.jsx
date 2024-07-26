@@ -5,7 +5,7 @@ import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import Link from "next/link";
 
-const resumePDF = "/MyResume-new.pdf";
+const resumePDF = "/Younus_syed_resume.pdf";
 const HeroSection = () => {
   return (
     <section className="lg:py-16">
