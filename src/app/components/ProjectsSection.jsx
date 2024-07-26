@@ -9,7 +9,7 @@ const projectsData = [
     title: "Chess Minigame",
     description: "chess mini-game seamlessly integrates advanced topics, such as Exception Handling, Version Control, Multithreading, and Socket Programming. ",tag: ["All", "Web"],
     image: "/images/projects/Chess.png",
-    gitUrl: "https://github.com/younussyed989/Chess.git",
+    gitUrl: "https://github.com/ysyed9/Chess",
     previewUrl: "/",
   },
   {
@@ -18,8 +18,8 @@ const projectsData = [
     description: "A multi-turn conversational AI application designed to engage users in interactive conversations. With Gemini Chatbot, users can ask questions, receive responses, and main conversation history",
     image: "/images/projects/AI-Chatbot.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/younussyed989/gemini.git",
-    previewUrl: "https://gemini-1fpa2wbgk-younussyed989s-projects.vercel.app/",
+    gitUrl: "https://github.com/ysyed9/gemini",
+    previewUrl: "https://gemini-ten-gilt.vercel.app/",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ const projectsData = [
     description: " scalable 3-tier AWS architecture on Red Hat Linux 9. Configured Apache, Tomcat, MongoDB. Ensured loose coupling for independent server operation. Integrated proxy for seamless communication between all servers. ",
     image: "/images/projects/AWS.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/younussyed01/Python",
+    gitUrl: "",
     previewUrl: "/",
   },
   {
@@ -45,7 +45,7 @@ const projectsData = [
     description: "A portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design",
     image: "/images/projects/Portfolio.png",
     tag: ["All", "Web"],
-    gitUrl: "https://github.com/younussyed989/Portfolio-Website.git",
+    gitUrl: "https://github.com/ysyed9/Portfolio-Website.git",
     previewUrl: "/",
   },
 ];
